@@ -38,7 +38,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 15.** La Société a le droit de demander compte à tout Agent public de son administration. 
 
-**Art. 15.b** L'administration a le droit de refuser de refuser de donner des comptes à tout Agent de la Société.
+**Art. 15.b** L'administration a le droit de refuser de donner des comptes à tout Agent de la Société.
 
 **Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
 
